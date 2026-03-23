@@ -1,0 +1,10 @@
+{
+  "appId": "com.soyayya.xyz",
+  "appName": "Soyayya",
+  "webDir": "www",
+  "server": {
+    "url": "https://soyayya.xyz",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
